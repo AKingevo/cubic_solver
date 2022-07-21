@@ -1,4 +1,5 @@
 #  ax^3 + bx^2 + cx^1 + dx^0 = 0
+# nothing much interesting just a tool to do homework of math's easily
 import numpy as np
 a=int(input("Cofficient OF x^3 : "));
 b=int(input("Cofficient OF x^2 : "));
